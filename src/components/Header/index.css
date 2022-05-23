@@ -1,0 +1,9 @@
+.header-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-item-link {
+  margin: 10px;
+}
